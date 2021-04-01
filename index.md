@@ -21,7 +21,7 @@ std::cout<< a + b <<std::endl;
 ```
 Do you know what's the output?<br/>
 
-[a relative link](README.md)<br/>
+This [relative link](README.md) will link to my README file. <br/>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
